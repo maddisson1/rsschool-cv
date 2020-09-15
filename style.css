@@ -1,5 +1,19 @@
 body {
-    margin: 100px;
+    margin: 125px;
+}
+
+img {
+    width: 170px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
 }
 
 p {
