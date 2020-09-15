@@ -1,8 +1,21 @@
 body {
-    margin: 100px;
+  margin: 125px;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 170px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.contact {
+  text-align: center;
 }
 
 p {
-    font-size: 18px;
-
+  font-size: 18px;
 }
